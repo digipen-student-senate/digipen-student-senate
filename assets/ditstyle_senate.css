@@ -7,7 +7,7 @@ html, body{
     color: rgba(53,61,64,1);
     height: 100%;
     margin: 0;
-    font-family: 'ProximaNova-Regular', sans-serif;
+    font-family: 'Proxima Nova Regular', sans-serif;
     font-weight: normal;
     
     -webkit-font-smoothing: antialiased;
@@ -176,13 +176,13 @@ h1.page_Title, .section_Title, .bulletin_Title,
 
 /* global text style --------------------------------------------------- */
 h1.page_Title, h2.section_Title, h3.bulletin_Title, .info_1, .info_2 {
-	font-family: 'ProximaNova-Regular', sans-serif;
+	font-family: 'Proxima Nova Regular', sans-serif;
 	color: rgb(35,31,32);
 	margin: 0px;
 }
 
 .bulletin_Content {
-    font-family: 'ProximaNova-Regular', sans-serif;
+    font-family: 'Proxima Nova Regular', sans-serif;
     color: rgb(53,61,64);
     margin: 0;
 }
@@ -190,7 +190,7 @@ h1.page_Title, h2.section_Title, h3.bulletin_Title, .info_1, .info_2 {
 /* title text style --------------------------------------------------- */ 
 h1.page_Title {
     color: rgb(255,255,255);
-	font-family: 'ProximaNova-Semibold', sans-serif;
+	font-family: 'Proxima Nova Semibold', sans-serif;
 	font-size: 1.5em;
 	justify-content: center;
     letter-spacing: 0.05rem;
@@ -231,12 +231,12 @@ p.info_1, p.info_2 {
 }
 
 p.info_2 {
-    font-family: 'ProximaNova-Semibold', sans-serif;
+    font-family: 'Proxima Nova Semibold', sans-serif;
 	line-height: 1.5;
 }
 
 a.button_Text {
-	font-family: 'ProximaNova-Bold', sans-serif;
+	font-family: 'Proxima Nova Semibold', sans-serif;
 	font-size: 0.9rem;
 	color: rgb(255,255,255);
 	background-color: rgb(185, 17, 39);
