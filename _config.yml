@@ -16,7 +16,7 @@
 title: DigiPen Student Senate
 email: senate-webmaster@digipen.edu
 description: DigiPen Student Senate
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/digipen-student-senate" # the subpath of your site, e.g. /blog
 url: "digipen-student-senate.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  senatewebmaster-temp
 
